@@ -1,6 +1,6 @@
 import React from "react";
 import MovieCard from "./MovieCard";
-
+//Appfunction
 function App() {
   const title = "Mad Max";
   const posterURL =
